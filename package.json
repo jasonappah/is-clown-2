@@ -1,8 +1,8 @@
 {
-	"name": "face-the-music",
-	"displayName": "Face The Music",
+	"name": "is-clown-2",
+	"displayName": "🤡",
 	"version": "0.0.1",
-	"description": "see a live, accurate total of ur grades. it's not a problem until you see it, don't wait till its too late 💀",
+	"description": "",
 	"author": "Jason Antwi-Appah <hey@jasonaa.me>",
 	"scripts": {
 		"dev": "plasmo dev",
